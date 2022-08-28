@@ -1,0 +1,39 @@
+Dog Tag Questions
+
+    • How soon would you need the project completed by?
+    • Where would you like the forms to be submitted upon completion (Database, Email, or CRM)
+    • What is the estimated amount of traffic per month?
+    • Are the forms being targeted Nationwide, Statewide or Citywide? 
+    • What specific information would you like on the forms?
+    • Do you have a specific layout you would want to incorporate on the form?
+    • Are you interested in implementing a payment gateway system within the application form to accept payments online? 
+    • Will the form application be accepting documents and images? If so, would you be interested in having the application auto-populate information based on the document that is uploaded to auto-fill the form?
+    • Are you interested in having the capability to verify owner information through a background check to insure they meet the requirements of receiving a license?
+    • Do you have any terms and conditions you would like to add in the application for the user to confirm before submitting the application?
+    • Are you interested in integrating user login information with social media sites?
+    • Are there other agencies that will be using this application?
+    • Where would you like the users to receive a confirmation after submitting the application?
+    • Where do you want the website to be redirected after the form is submitted?
+    • Are you interested in creating a dog profile as part of the application process? 
+    • Will owners be able to submit multiple dogs for one application?
+    • Would you like have the capability for the owners to renew their license after expiration by using information saved from application?
+    • Would you like to make the form accessible to any device?
+    • Are there any services you would like to integrate with the form?
+    • Would you like to integrate form information to a dog tracking system?
+    • Would you like the application to be interactive or non-interactive?
+    • Would you like the application contents to be encrypted?
+    • When the application is completed would you want the application to generate a temp license before the permanent one is mailed to the users residence?
+    • Will the end user be allowed to access the completed application in the future for reference?
+    • Would you want the capability for the application to be withdrawn if the user is no longer interested, or a time stamp where the application is saved and they can come and finish at their convenience?
+    • Do you want to give the user the ability to download the application after they submitted?
+    • Are you interested in having the ability for the user to digital sign the application upon completion?
+    • Are you interested in having the capability to create a pin to access the application in the future whether online or PDF file.
+    • Would you like to make the form accessible for any disabled users? 
+    • Do you have any compliance law’s that need to be in place when publishing the application?
+    • Would you like to add any disclosure information to the application?  
+    • Are you interested in adding any Captcha for real user verification?
+    • Are you interested in collecting applicants IP Address for record? 
+    • When the user visit the application page would you like the system to check for any D-dos attack to ensure they are receiving actual user visits?
+    • 
+    • 
+    • 
